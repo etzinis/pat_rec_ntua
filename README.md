@@ -1,5 +1,5 @@
 # pat_rec_ntua
-Labs exercises in NTUA (2015-2016) for the Pattern Recognition course 9th semester  
+Labs exercises in NTUA (2016-2017) for the Pattern Recognition course 9th semester  
 
 Contributors: 
 Efthymios Tzinis 
