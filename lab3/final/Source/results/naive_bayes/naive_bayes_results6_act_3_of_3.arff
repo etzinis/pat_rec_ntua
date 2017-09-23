@@ -1,0 +1,137 @@
+
+Naive Bayes Classifier
+
+                 Class
+Attribute           -1       1
+                (0.47)  (0.53)
+===============================
+Feature1
+  mean           0.3603  0.2199
+  std. dev.      0.1826  0.1444
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature2
+  mean           0.3638  0.2736
+  std. dev.      0.1808  0.1642
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature3
+  mean           0.3944  0.3947
+  std. dev.      0.1648  0.1724
+  weight sum        132     152
+  precision      0.0034  0.0034
+
+Feature4
+  mean           0.4037  0.4333
+  std. dev.      0.1725  0.1816
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature5
+  mean           0.1655  0.1686
+  std. dev.      0.1187  0.1273
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature6
+  mean           0.3394  0.3046
+  std. dev.      0.1615  0.1585
+  weight sum        132     152
+  precision      0.0036  0.0036
+
+Feature7
+  mean           0.6137   0.652
+  std. dev.      0.1402  0.1391
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature8
+  mean           0.4432  0.4167
+  std. dev.      0.1729  0.1558
+  weight sum        132     152
+  precision      0.0034  0.0034
+
+Feature9
+  mean           0.4245  0.4314
+  std. dev.         0.2  0.2013
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature10
+  mean           0.6512  0.6533
+  std. dev.      0.1615  0.1531
+  weight sum        132     152
+  precision       0.003   0.003
+
+Feature11
+  mean           0.5802  0.5106
+  std. dev.      0.2295  0.2238
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature12
+  mean           0.6851  0.6487
+  std. dev.       0.125  0.1562
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+
+
+Time taken to build model: 0.33 seconds
+Time taken to test model on training data: 0.03 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances         183               64.4366 %
+Incorrectly Classified Instances       101               35.5634 %
+Kappa statistic                          0.2784
+Mean absolute error                      0.3823
+Root mean squared error                  0.4754
+Relative absolute error                 76.8426 %
+Root relative squared error             95.3104 %
+Total Number of Instances              284     
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.545    0.270    0.637      0.545    0.588      0.281    0.724     0.700     -1
+                 0.730    0.455    0.649      0.730    0.687      0.281    0.724     0.755     1
+Weighted Avg.    0.644    0.369    0.644      0.644    0.641      0.281    0.724     0.730     
+
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+  72  60 |   a = -1
+  41 111 |   b = 1
+
+
+=== Error on test data ===
+
+Correctly Classified Instances          44               61.9718 %
+Incorrectly Classified Instances        27               38.0282 %
+Kappa statistic                          0.2172
+Mean absolute error                      0.3902
+Root mean squared error                  0.4752
+Relative absolute error                 78.9017 %
+Root relative squared error             95.8422 %
+Total Number of Instances               71     
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.533    0.317    0.552      0.533    0.542      0.217    0.712     0.659     -1
+                 0.683    0.467    0.667      0.683    0.675      0.217    0.712     0.786     1
+Weighted Avg.    0.620    0.403    0.618      0.620    0.619      0.217    0.712     0.732     
+
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 16 14 |  a = -1
+ 13 28 |  b = 1
+

@@ -1,0 +1,89 @@
+1NN_all_all:
+	sh call_1NN.sh train_smoothed2 test_smoothed2
+
+1NN_60_40:
+	sh call_1NN.sh train_smoothed2_60 train_smoothed2_40
+
+1NN_80_20:
+	sh call_1NN.sh train_smoothed2_80 train_smoothed2_20
+
+1NN_60_test:
+	sh call_1NN.sh train_smoothed2_60 test_smoothed2
+
+1NN_80_test:
+	sh call_1NN.sh train_smoothed2_80 test_smoothed2
+
+RF_all_all:
+	sh call_RF.sh train_smoothed2 test_smoothed2
+
+RF_60_40:
+	sh call_RF.sh train_smoothed2_60 train_smoothed2_40
+
+RF_80_20:
+	sh call_RF.sh train_smoothed2_80 train_smoothed2_20
+
+RF_60_test:
+	sh call_RF.sh train_smoothed2_60 test_smoothed2
+
+RF_80_test:
+	sh call_RF.sh train_smoothed2_80 test_smoothed2
+
+svm_all_all:
+	sh call_svm.sh train_smoothed2 test_smoothed2
+
+svm_60_40:
+	sh call_svm.sh train_smoothed2_60 train_smoothed2_40
+
+svm_80_20:
+	sh call_svm.sh train_smoothed2_80 train_smoothed2_20
+
+svm_80_test:
+	sh call_svm.sh train_smoothed2_80 test_smoothed2
+
+svm_60_test:
+	sh call_svm.sh train_smoothed2_60 test_smoothed2
+
+mlp_all_all:
+	sh call_mlp.sh train_smoothed2 test_smoothed2
+
+mlp_60_40:
+	sh call_mlp.sh train_smoothed2_60 train_smoothed2_40
+
+mlp_80_20:
+	sh call_mlp.sh train_smoothed2_80 train_smoothed2_20
+
+mlp_60_test:
+	sh call_mlp.sh train_smoothed2_60 test_smoothed2
+
+mlp_80_test:
+	sh call_mlp.sh train_smoothed2_80 test_smoothed2
+
+concat_conf_scores_8020:
+	cd scripts; python Concat_Conf_Scores.py svm_results_train_smoothed2_80_train_smoothed2_20 1NN_train_smoothed2_80_train_smoothed2_20 RF_train_smoothed2_80_train_smoothed2_20 concated_80_20
+
+concat_conf_scores_80test:
+	cd scripts; python Concat_Conf_Scores.py svm_results_train_smoothed2_80_test_smoothed2 1NN_train_smoothed2_80_test_smoothed2 RF_train_smoothed2_80_test_smoothed2 concated_80_test_smoothed2
+
+concat_conf_scores_6040:
+	cd scripts; python Concat_Conf_Scores.py svm_results_train_smoothed2_60_train_smoothed2_40 1NN_train_smoothed2_60_train_smoothed2_40 RF_train_smoothed2_60_train_smoothed2_40 concated_60_40
+
+concat_conf_scores_60test:
+	cd scripts; python Concat_Conf_Scores.py svm_results_train_smoothed2_60_test_smoothed2 1NN_train_smoothed2_60_test_smoothed2 RF_train_smoothed2_60_test_smoothed2 concated_60_test_smoothed2
+
+aggregated_conf_scores_all:
+	cd scripts; python Save_Confidence.py svm_results_train_smoothed2_test_smoothed2 1NN_train_smoothed2_test_smoothed2 RF_train_smoothed2_test_smoothed2 aggregated_all
+
+aggregated_conf_scores_8020:
+	cd scripts; python Save_Confidence.py svm_results_train_smoothed2_80_train_smoothed2_20 1NN_train_smoothed2_80_train_smoothed2_20 RF_train_smoothed2_80_train_smoothed2_20 aggregated_80_20
+
+aggregated_conf_scores_80test:
+	cd scripts; python Save_Confidence.py svm_results_train_smoothed2_80_test_smoothed2 1NN_train_smoothed2_80_test_smoothed2 RF_train_smoothed2_80_test_smoothed2 aggregated_80_test_smoothed2
+
+aggregated_conf_scores_6040:
+	cd scripts; python Save_Confidence.py svm_results_train_smoothed2_60_train_smoothed2_40 1NN_train_smoothed2_60_train_smoothed2_40 RF_train_smoothed2_60_train_smoothed2_40 aggregated_60_40
+
+aggregated_conf_scores_60test:
+	cd scripts; python Save_Confidence.py svm_results_train_smoothed2_60_test_smoothed2 1NN_train_smoothed2_60_test_smoothed2 RF_train_smoothed2_60_test_smoothed2 aggregated_60_test_smoothed2
+
+majority:
+	python ./scripts/Maj_Classifiers.py

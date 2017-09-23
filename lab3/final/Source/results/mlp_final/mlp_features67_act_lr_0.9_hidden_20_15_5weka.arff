@@ -1,0 +1,2 @@
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+Weighted Avg.    0.775    0.230    0.774      0.775    0.775      0.545    0.822     0.809     

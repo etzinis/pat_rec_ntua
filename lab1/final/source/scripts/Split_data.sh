@@ -1,0 +1,4 @@
+java -cp "/home/thymios/weka-3-8-0/weka.jar" weka.filters.unsupervised.instance.RemovePercentage -P 40 -i ../Workspace/train_smoothed2.arff  -o  train26040.arff 
+java -cp "/home/thymios/weka-3-8-0/weka.jar" weka.filters.unsupervised.instance.RemovePercentage -P 40 -V -i ../Workspace/train_smoothed2.arff  -o  test26040.arff 
+java -cp "/home/thymios/weka-3-8-0/weka.jar" weka.filters.unsupervised.instance.RemovePercentage -P 20 -i ../Workspace/train_smoothed2.arff  -o  train28020.arff 
+java -cp "/home/thymios/weka-3-8-0/weka.jar" weka.filters.unsupervised.instance.RemovePercentage -P 20 -V -i ../Workspace/train_smoothed2.arff  -o  test28020.arff  

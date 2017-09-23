@@ -1,0 +1,1001 @@
+
+Naive Bayes Classifier
+
+                 Class
+Attribute           -1       1
+                (0.47)  (0.53)
+===============================
+Feature1
+  mean           0.4451   0.619
+  std. dev.      0.1237  0.1416
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature2
+  mean           0.5485  0.5877
+  std. dev.      0.1425  0.1656
+  weight sum        132     152
+  precision      0.0034  0.0034
+
+Feature3
+  mean           0.4333  0.5104
+  std. dev.      0.1442  0.1487
+  weight sum        132     152
+  precision      0.0031  0.0031
+
+Feature4
+  mean            0.536  0.5042
+  std. dev.      0.1287  0.1582
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature5
+  mean           0.5582  0.5031
+  std. dev.      0.1459  0.1822
+  weight sum        132     152
+  precision      0.0034  0.0034
+
+Feature6
+  mean            0.524  0.4604
+  std. dev.      0.1405  0.1585
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature7
+  mean           0.5934   0.571
+  std. dev.      0.1433  0.1789
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature8
+  mean           0.6055  0.5619
+  std. dev.      0.1383  0.1662
+  weight sum        132     152
+  precision      0.0033  0.0033
+
+Feature9
+  mean           0.4102  0.4413
+  std. dev.      0.1286  0.1337
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature10
+  mean           0.4699  0.4436
+  std. dev.      0.1318  0.1485
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature11
+  mean           0.4458  0.4595
+  std. dev.      0.1374  0.1344
+  weight sum        132     152
+  precision      0.0034  0.0034
+
+Feature12
+  mean           0.4097  0.4496
+  std. dev.       0.155  0.1926
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature13
+  mean           0.4833  0.4459
+  std. dev.      0.0996  0.1278
+  weight sum        132     152
+  precision       0.003   0.003
+
+Feature14
+  mean           0.2637  0.2861
+  std. dev.      0.1476  0.1634
+  weight sum        132     152
+  precision      0.0036  0.0036
+
+Feature15
+  mean           0.3477  0.3886
+  std. dev.      0.1827  0.1945
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature16
+  mean           0.2622  0.2838
+  std. dev.      0.1142  0.1566
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature17
+  mean           0.3406  0.4194
+  std. dev.      0.1156  0.1531
+  weight sum        132     152
+  precision      0.0036  0.0036
+
+Feature18
+  mean           0.2805  0.3251
+  std. dev.      0.1046  0.1354
+  weight sum        132     152
+  precision      0.0036  0.0036
+
+Feature19
+  mean           0.1975  0.2457
+  std. dev.      0.0849  0.1216
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature20
+  mean           0.2724  0.2974
+  std. dev.      0.1487  0.1463
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature21
+  mean           0.2259  0.2402
+  std. dev.      0.1147  0.1317
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature22
+  mean            0.292  0.2774
+  std. dev.        0.17  0.1526
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature23
+  mean           0.2848  0.2783
+  std. dev.       0.162  0.1824
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature24
+  mean           0.3165  0.3166
+  std. dev.       0.164  0.1741
+  weight sum        132     152
+  precision      0.0036  0.0036
+
+Feature25
+  mean            0.278   0.294
+  std. dev.      0.1323  0.1668
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature26
+  mean           0.3004  0.3227
+  std. dev.       0.129   0.161
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature27
+  mean           0.5006  0.5248
+  std. dev.      0.1459  0.1572
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature28
+  mean           0.4885  0.4867
+  std. dev.      0.1371  0.1408
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature29
+  mean           0.3692  0.3947
+  std. dev.      0.1261  0.1353
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature30
+  mean            0.552  0.5463
+  std. dev.      0.1296   0.145
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature31
+  mean           0.5053   0.489
+  std. dev.      0.1473  0.1505
+  weight sum        132     152
+  precision      0.0034  0.0034
+
+Feature32
+  mean           0.4313  0.4457
+  std. dev.      0.1518  0.1537
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature33
+  mean           0.5655  0.5616
+  std. dev.      0.1187  0.1432
+  weight sum        132     152
+  precision      0.0033  0.0033
+
+Feature34
+  mean           0.5555  0.5688
+  std. dev.      0.0999  0.1045
+  weight sum        132     152
+  precision      0.0033  0.0033
+
+Feature35
+  mean            0.428  0.4556
+  std. dev.      0.1309  0.1373
+  weight sum        132     152
+  precision      0.0036  0.0036
+
+Feature36
+  mean           0.4095  0.4096
+  std. dev.      0.1328  0.1395
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature37
+  mean           0.3405  0.3418
+  std. dev.      0.1071  0.1291
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature38
+  mean           0.5831  0.5929
+  std. dev.      0.1113  0.1112
+  weight sum        132     152
+  precision      0.0036  0.0036
+
+Feature39
+  mean            0.602  0.5739
+  std. dev.      0.1116  0.1191
+  weight sum        132     152
+  precision      0.0027  0.0027
+
+Feature40
+  mean            0.387  0.2996
+  std. dev.      0.1499   0.111
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature41
+  mean           0.5739  0.4724
+  std. dev.      0.1553  0.1639
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature42
+  mean           0.5863  0.4726
+  std. dev.       0.126  0.1416
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature43
+  mean           0.5997  0.4959
+  std. dev.       0.161  0.1831
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature44
+  mean           0.6535  0.5618
+  std. dev.      0.1282  0.1498
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature45
+  mean           0.6064  0.5109
+  std. dev.       0.141  0.1812
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature46
+  mean           0.5882  0.4676
+  std. dev.      0.1241  0.1486
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature47
+  mean           0.5587  0.4531
+  std. dev.      0.1242  0.1489
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature48
+  mean           0.5222  0.3887
+  std. dev.      0.1486  0.1301
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature49
+  mean           0.4349  0.3049
+  std. dev.      0.1409  0.1288
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature50
+  mean           0.4613  0.3339
+  std. dev.      0.1433  0.1316
+  weight sum        132     152
+  precision      0.0034  0.0034
+
+Feature51
+  mean           0.4123  0.3074
+  std. dev.      0.1251  0.1169
+  weight sum        132     152
+  precision      0.0027  0.0027
+
+Feature52
+  mean           0.4163  0.3406
+  std. dev.      0.1252  0.1218
+  weight sum        132     152
+  precision      0.0027  0.0027
+
+Feature53
+  mean           0.5933  0.6023
+  std. dev.      0.1575  0.1119
+  weight sum        132     152
+  precision       0.003   0.003
+
+Feature54
+  mean           0.5659  0.5666
+  std. dev.      0.1723  0.1485
+  weight sum        132     152
+  precision      0.0036  0.0036
+
+Feature55
+  mean           0.5939  0.5711
+  std. dev.      0.1438  0.1479
+  weight sum        132     152
+  precision      0.0036  0.0036
+
+Feature56
+  mean           0.5611  0.5451
+  std. dev.      0.1408  0.1553
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature57
+  mean           0.3199  0.3319
+  std. dev.      0.1405  0.1323
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature58
+  mean           0.5416   0.532
+  std. dev.      0.1712  0.1585
+  weight sum        132     152
+  precision      0.0033  0.0033
+
+Feature59
+  mean           0.5176  0.5299
+  std. dev.      0.1535  0.1531
+  weight sum        132     152
+  precision      0.0036  0.0036
+
+Feature60
+  mean           0.4201  0.4258
+  std. dev.      0.1535  0.1486
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature61
+  mean           0.5625  0.5705
+  std. dev.      0.1569   0.154
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature62
+  mean           0.4408  0.4314
+  std. dev.      0.1475  0.1455
+  weight sum        132     152
+  precision      0.0032  0.0032
+
+Feature63
+  mean           0.4297  0.4256
+  std. dev.       0.148  0.1479
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature64
+  mean           0.6033  0.5728
+  std. dev.       0.154  0.1398
+  weight sum        132     152
+  precision      0.0036  0.0036
+
+Feature65
+  mean           0.5276  0.5253
+  std. dev.      0.1476  0.1262
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature66
+  mean           0.3691  0.2736
+  std. dev.       0.146  0.1022
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature67
+  mean           0.5704  0.4474
+  std. dev.      0.1467  0.1611
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature68
+  mean           0.6308  0.5061
+  std. dev.      0.1226  0.1539
+  weight sum        132     152
+  precision      0.0036  0.0036
+
+Feature69
+  mean           0.6098  0.4951
+  std. dev.       0.145  0.1726
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature70
+  mean            0.655  0.5529
+  std. dev.      0.1281  0.1583
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature71
+  mean           0.6247  0.5217
+  std. dev.      0.1386  0.1891
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature72
+  mean           0.6531  0.5214
+  std. dev.       0.124  0.1595
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature73
+  mean           0.6191  0.5012
+  std. dev.      0.1265  0.1718
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature74
+  mean            0.557  0.4093
+  std. dev.      0.1422  0.1426
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature75
+  mean           0.4974  0.3556
+  std. dev.      0.1377  0.1356
+  weight sum        132     152
+  precision      0.0036  0.0036
+
+Feature76
+  mean           0.5285  0.3952
+  std. dev.      0.1299   0.137
+  weight sum        132     152
+  precision      0.0033  0.0033
+
+Feature77
+  mean           0.4507  0.3351
+  std. dev.      0.1125  0.1122
+  weight sum        132     152
+  precision      0.0025  0.0025
+
+Feature78
+  mean           0.4493  0.3637
+  std. dev.      0.1208  0.1189
+  weight sum        132     152
+  precision      0.0026  0.0026
+
+Feature79
+  mean           0.4544  0.6038
+  std. dev.      0.1257  0.1455
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature80
+  mean           0.4548  0.4623
+  std. dev.      0.1614  0.1629
+  weight sum        132     152
+  precision      0.0034  0.0034
+
+Feature81
+  mean           0.4661  0.5248
+  std. dev.      0.1508  0.1678
+  weight sum        132     152
+  precision      0.0032  0.0032
+
+Feature82
+  mean           0.5429  0.4746
+  std. dev.      0.1436  0.1598
+  weight sum        132     152
+  precision      0.0033  0.0033
+
+Feature83
+  mean           0.6739  0.6205
+  std. dev.      0.1048  0.1334
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature84
+  mean           0.6872  0.6053
+  std. dev.       0.138  0.1672
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature85
+  mean           0.7176  0.6868
+  std. dev.      0.1376   0.168
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature86
+  mean           0.7274  0.6973
+  std. dev.      0.1261  0.1469
+  weight sum        132     152
+  precision      0.0034  0.0034
+
+Feature87
+  mean           0.6817  0.7088
+  std. dev.      0.1809  0.1654
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature88
+  mean           0.7091  0.6908
+  std. dev.      0.1661  0.1876
+  weight sum        132     152
+  precision      0.0036  0.0036
+
+Feature89
+  mean           0.6343  0.6386
+  std. dev.      0.1607   0.185
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature90
+  mean           0.6193  0.6176
+  std. dev.      0.1513  0.2026
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature91
+  mean             0.67   0.608
+  std. dev.       0.161  0.2092
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature92
+  mean           0.3791  0.5608
+  std. dev.      0.1388  0.1543
+  weight sum        132     152
+  precision      0.0034  0.0034
+
+Feature93
+  mean           0.5516  0.6019
+  std. dev.      0.1361  0.1657
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature94
+  mean           0.4545  0.5223
+  std. dev.      0.1246  0.1342
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature95
+  mean           0.5163  0.5261
+  std. dev.      0.1241  0.1619
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature96
+  mean           0.4737  0.4537
+  std. dev.      0.1456  0.1814
+  weight sum        132     152
+  precision      0.0033  0.0033
+
+Feature97
+  mean           0.2847  0.2721
+  std. dev.       0.093  0.1145
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature98
+  mean           0.4278  0.4172
+  std. dev.      0.1541  0.1674
+  weight sum        132     152
+  precision      0.0036  0.0036
+
+Feature99
+  mean           0.4926  0.4587
+  std. dev.      0.1536  0.1627
+  weight sum        132     152
+  precision      0.0032  0.0032
+
+Feature100
+  mean           0.2818  0.2933
+  std. dev.       0.114  0.1305
+  weight sum        132     152
+  precision      0.0031  0.0031
+
+Feature101
+  mean           0.2915  0.2655
+  std. dev.      0.1201  0.1201
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature102
+  mean           0.3646  0.3718
+  std. dev.      0.1827  0.1583
+  weight sum        132     152
+  precision      0.0034  0.0034
+
+Feature103
+  mean           0.3398  0.3657
+  std. dev.      0.1589  0.1721
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature104
+  mean           0.4755   0.445
+  std. dev.      0.1244  0.1358
+  weight sum        132     152
+  precision      0.0031  0.0031
+
+Feature105
+  mean           0.6434  0.7178
+  std. dev.      0.1541  0.1237
+  weight sum        132     152
+  precision      0.0033  0.0033
+
+Feature106
+  mean           0.4608  0.5497
+  std. dev.      0.1591  0.1661
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature107
+  mean           0.4208  0.5328
+  std. dev.      0.1351  0.1349
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature108
+  mean           0.3942  0.4907
+  std. dev.      0.1599  0.1899
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature109
+  mean           0.3844  0.4676
+  std. dev.       0.146  0.1622
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature110
+  mean            0.452  0.5507
+  std. dev.      0.1515  0.1831
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature111
+  mean           0.4289  0.5469
+  std. dev.      0.1333  0.1539
+  weight sum        132     152
+  precision      0.0036  0.0036
+
+Feature112
+  mean           0.4722  0.5702
+  std. dev.      0.1345  0.1483
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature113
+  mean           0.5181  0.6541
+  std. dev.      0.1572  0.1375
+  weight sum        132     152
+  precision      0.0036  0.0036
+
+Feature114
+  mean           0.6056  0.7261
+  std. dev.      0.1446  0.1224
+  weight sum        132     152
+  precision      0.0036  0.0036
+
+Feature115
+  mean           0.5933  0.6986
+  std. dev.       0.127  0.1127
+  weight sum        132     152
+  precision      0.0031  0.0031
+
+Feature116
+  mean           0.6303  0.7163
+  std. dev.       0.114  0.1001
+  weight sum        132     152
+  precision      0.0024  0.0024
+
+Feature117
+  mean            0.578  0.6559
+  std. dev.      0.1341  0.1256
+  weight sum        132     152
+  precision      0.0028  0.0028
+
+Feature118
+  mean           0.3242  0.2423
+  std. dev.        0.14  0.0915
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature119
+  mean           0.5304  0.4393
+  std. dev.      0.1546  0.1584
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature120
+  mean           0.5409  0.4312
+  std. dev.      0.1392  0.1569
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature121
+  mean           0.5783  0.4952
+  std. dev.      0.1602  0.1639
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature122
+  mean           0.6625  0.5796
+  std. dev.      0.1207  0.1409
+  weight sum        132     152
+  precision      0.0034  0.0034
+
+Feature123
+  mean           0.5902  0.5216
+  std. dev.      0.1408   0.175
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature124
+  mean           0.5617  0.4492
+  std. dev.      0.1373  0.1537
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature125
+  mean           0.5903  0.4849
+  std. dev.      0.1322  0.1553
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature126
+  mean           0.5131  0.3916
+  std. dev.      0.1491   0.126
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature127
+  mean            0.447  0.3247
+  std. dev.      0.1415  0.1272
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature128
+  mean           0.4332  0.3055
+  std. dev.      0.1481  0.1305
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature129
+  mean           0.4281  0.3119
+  std. dev.      0.1462  0.1387
+  weight sum        132     152
+  precision      0.0031  0.0031
+
+Feature130
+  mean           0.4077  0.3384
+  std. dev.      0.1313  0.1262
+  weight sum        132     152
+  precision      0.0027  0.0027
+
+Feature131
+  mean           0.7053  0.7854
+  std. dev.      0.1259  0.0773
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature132
+  mean           0.5384  0.6378
+  std. dev.      0.1334  0.1357
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature133
+  mean           0.4138  0.5273
+  std. dev.      0.1266  0.1494
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature134
+  mean           0.3989  0.4932
+  std. dev.      0.1503  0.1731
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature135
+  mean           0.3325  0.4331
+  std. dev.      0.1373  0.1564
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature136
+  mean            0.343  0.4462
+  std. dev.      0.1503  0.2008
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature137
+  mean           0.4202  0.5394
+  std. dev.       0.123  0.1432
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature138
+  mean            0.461  0.5666
+  std. dev.      0.1183  0.1503
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature139
+  mean           0.4888   0.637
+  std. dev.      0.1536  0.1486
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature140
+  mean           0.4569  0.6086
+  std. dev.      0.1519  0.1467
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature141
+  mean           0.4515  0.5862
+  std. dev.      0.1325  0.1374
+  weight sum        132     152
+  precision      0.0034  0.0034
+
+Feature142
+  mean           0.5809  0.6917
+  std. dev.      0.1107  0.1088
+  weight sum        132     152
+  precision      0.0027  0.0027
+
+Feature143
+  mean           0.5376  0.6188
+  std. dev.      0.1216  0.1225
+  weight sum        132     152
+  precision      0.0027  0.0027
+
+Feature144
+  mean           0.3638   0.277
+  std. dev.      0.1621  0.1189
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature145
+  mean           0.5284  0.4254
+  std. dev.      0.1341  0.1489
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature146
+  mean           0.5941  0.4795
+  std. dev.      0.1242  0.1517
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature147
+  mean           0.6256  0.5014
+  std. dev.      0.1494  0.1752
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature148
+  mean           0.6461  0.5565
+  std. dev.      0.1291  0.1557
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature149
+  mean            0.588  0.4961
+  std. dev.      0.1422  0.1788
+  weight sum        132     152
+  precision      0.0036  0.0036
+
+Feature150
+  mean           0.6656  0.5409
+  std. dev.      0.1298  0.1702
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature151
+  mean           0.6387  0.5206
+  std. dev.      0.1392  0.1877
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature152
+  mean           0.5707  0.4382
+  std. dev.      0.1333  0.1301
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature153
+  mean           0.4626  0.3349
+  std. dev.      0.1373  0.1257
+  weight sum        132     152
+  precision      0.0036  0.0036
+
+Feature154
+  mean           0.4982  0.3685
+  std. dev.      0.1388  0.1351
+  weight sum        132     152
+  precision      0.0035  0.0035
+
+Feature155
+  mean           0.4521  0.3438
+  std. dev.      0.1148  0.1113
+  weight sum        132     152
+  precision      0.0027  0.0027
+
+Feature156
+  mean           0.4298  0.3429
+  std. dev.       0.133  0.1227
+  weight sum        132     152
+  precision      0.0026  0.0026
+
+
+
+Time taken to build model: 0.34 seconds
+Time taken to test model on training data: 0.1 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances         212               74.6479 %
+Incorrectly Classified Instances        72               25.3521 %
+Kappa statistic                          0.494 
+Mean absolute error                      0.256 
+Root mean squared error                  0.499 
+Relative absolute error                 51.4506 %
+Root relative squared error            100.0431 %
+Total Number of Instances              284     
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.780    0.283    0.705      0.780    0.741      0.496    0.819     0.772     -1
+                 0.717    0.220    0.790      0.717    0.752      0.496    0.818     0.811     1
+Weighted Avg.    0.746    0.249    0.751      0.746    0.747      0.496    0.819     0.793     
+
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 103  29 |   a = -1
+  43 109 |   b = 1
+
+
+=== Error on test data ===
+
+Correctly Classified Instances          48               67.6056 %
+Incorrectly Classified Instances        23               32.3944 %
+Kappa statistic                          0.3563
+Mean absolute error                      0.3256
+Root mean squared error                  0.5613
+Relative absolute error                 65.8302 %
+Root relative squared error            113.2217 %
+Total Number of Instances               71     
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.733    0.366    0.595      0.733    0.657      0.363    0.741     0.617     -1
+                 0.634    0.267    0.765      0.634    0.693      0.363    0.738     0.787     1
+Weighted Avg.    0.676    0.309    0.693      0.676    0.678      0.363    0.739     0.715     
+
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 22  8 |  a = -1
+ 15 26 |  b = 1
+

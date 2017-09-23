@@ -1,0 +1,27 @@
+emobase
+Cross Validation Accuracy = 81.4103%
+Linear SVM act
+Cross Validation Accuracy = 52.8846%
+Poly3 SVM act
+Cross Validation Accuracy = 83.6538%
+RBF SVM act
+Cross Validation Accuracy = 76.6026%
+Linear SVM val
+Cross Validation Accuracy = 60.5769%
+Poly3 SVM val
+Cross Validation Accuracy = 81.7308%
+RBF SVM val
+
+emobase2010
+Cross Validation Accuracy = 84.6386%
+Linear SVM act
+Cross Validation Accuracy = 53.3133%
+Poly3 SVM act
+Cross Validation Accuracy = 85.241%
+RBF SVM act
+Cross Validation Accuracy = 77.8846%
+Linear SVM val
+Cross Validation Accuracy = 60.5769%
+Poly3 SVM val
+Cross Validation Accuracy = 79.8077%
+RBF SVM val
