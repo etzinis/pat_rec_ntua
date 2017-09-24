@@ -2,17 +2,17 @@
 Labs exercises in NTUA (2016-2017) for the Pattern Recognition course 9th semester  
 
 Contributors: 
-Efthymios Tzinis 
-Konstantinos Kallas
+- [Efthymios Tzinis](https://github.com/etzinis)  
+- [Konstantinos Kallas](https://github.com/angelhof)
 
-Lab 1: Handwritten-digits-images Recognition
+## Lab 1: Handwritten-digits-images Recognition
 
 In this work we prepared steps 10 till 16 from the Laboratory Exercise 1. The main purpose of this Exercise includes the implementation of an automatic visual recognition of hand - written digits 0-9. The steps below are presented with
 a given explanation for each one and images wherever it is necessary for a better perspective. We endeavored the usage and experimentation of different classifiers and deviant selections of splitting data, training and testing techniques.
 We tried to reach the recent state of the art of handwritten digits recognition which is currently around 99:8% as have been stated in [1] which was achieved
 through the usage of a Deep Neural Network. Comments in our codes could be quite helpful in further and deeper understanding of our implementation. 
 
-Lab 2: Spoken-Digits Recognition 
+## Lab 2: Spoken-Digits Recognition 
 
 In our work we experimented on a typical digit recognition system from speech data provided by the laboratory exercise files. We implemented our system in
 Matlab according to the steps provided by the description of the exercise. The final result is quite remarkable as the evaluation of our model demonstrated
@@ -20,7 +20,7 @@ estimable accuracy by using the HMM tool in Matlab. The training and the test da
 the digits from 1 to 9. Throughout the exercise we found deviant approaches for further increasing the accuracy of our model which are discussed below. Policies
 and assumptions are also described and analyzed. The implemented model is based on the model described by Rabiner in [2].
 
-Lab 3: Speech Emotion Recognition
+## Lab 3: Speech Emotion Recognition
 
 In this work we prepared steps 10 till 17 from the Laboratory Exercise 3. The
 main purpose of this Exercise includes the implementation of an automatic emotion recognition system which is dedicated to individual emotion classification of
