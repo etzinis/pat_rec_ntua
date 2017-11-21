@@ -38,6 +38,11 @@ both valence and activation recognition with less extracted features. This last
 step was not demanded by the exercise but it is essential in order to validate if
 our classification results are good.
 
+## Analytic: analytic exercises
+
+Contributor: 
+- [Efthymios Tzinis](https://github.com/etzinis)  
+
 References: 
 
 [1] Multi-column Deep Neural Networks for Image Classification, Dan Ciresan Ueli, Meier, Jurgen Schmidhuber, Technical Report No. IDSIA-04-12 
